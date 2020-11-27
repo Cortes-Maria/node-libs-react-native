@@ -25,7 +25,7 @@
     "react-native-crypto": "^2.0.1",
     "react-native-randombytes": "^3.5.1",
     "readable-stream": "^2.2.9",
-    "stream-http": "^2.3.1",
+    "stream-http": "git+https://github.com/Cortes-Maria/stream-http.git",
     "string_decoder": "^1.0.3",
     "timers-browserify": "^2.0.2",
     "tty-browserify": "0.0.0",
